@@ -1,4 +1,4 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSpaseski&show_icons=true&theme=radical&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSpaseski&show_icons=true&theme=radical&hide=stars)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSpaseski&layout=compact&theme=dark)
 
 <!--
