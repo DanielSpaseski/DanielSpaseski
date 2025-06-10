@@ -1,5 +1,6 @@
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSpaseski&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSpaseski&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielSpaseski&show_icons=true&theme=radical&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSpaseski&layout=compact&theme=dark)
+
 <!--
 **DanielSpaseski/DanielSpaseski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
